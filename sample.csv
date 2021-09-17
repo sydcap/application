@@ -1,0 +1,746 @@
+id,date,branch,race,state,Segment,model,tenure,status
+1400,08/09/2021,MERU,malay,selangor,TRD,Y-NVXV2,48,approved
+2130,12/09/2021,PUCHONG,malay,selangor,EDU,Y-135LC AC,48,rejected
+3188,11/09/2021,T.PULAI,malay,selangor,F&B,H-VARIO150,48,rejected
+3237,13/09/2021,S.UTAMA,malay,selangor,MNC,Y-Y15ZR,36,reverted
+3387,09/09/2021,S.UTAMA,malay,selangor,MNC,Y-135LC AC,48,approved
+3807,10/09/2021,SS,indian,kuala_lumpur,IT,Y-135LC AC,24,reverted
+4171,15/09/2021,PUCHONG,malay,selangor,MNC,Y-135LC AC,48,rejected
+4580,03/09/2021,SENTOSA,malay,selangor,MNC,Y-135LC AC,36,approved
+4612,09/09/2021,SENTUL,malay,kuala_lumpur,SALE,Y-135LC SE,24,stockout
+4661,05/09/2021,S.UTAMA,malay,selangor,BUID,Y-Y15ZR,36,approved
+4704,01/09/2021,SS,malay,selangor,HR,Y-NVXABS,48,approved
+4707,02/09/2021,SENTUL,malay,selangor,SRC,Y-EGOSO,36,approved
+4714,13/09/2021,S.UTAMA,malay,selangor,F&B,Y-135LC AC,36,approved
+4724,01/09/2021,SENTUL,malay,kuala_lumpur,SRC,H-RS150R TRICO,48,stockout
+4741,06/09/2021,SENTUL,indian,selangor,MNC,Y-135LC AC,48,stockout
+4746,03/09/2021,SUBANG,malay,selangor,MNC,Y-Y15ZR,36,approved
+4773,15/09/2021,RAWANG,malay,selangor,SALE,Y-Y15ZR,48,cancelled
+4784,01/09/2021,S.BULOH,malay,selangor,MNC,Y-135LC AC,48,rejected
+4796,11/09/2021,K.SELANGOR,indian,selangor,SRC,Y-Y15ZR,36,rejected
+4804,01/09/2021,CHERAS,chinese,kuala_lumpur,ENGI,Y-Y15ZR,36,stockout
+4805,08/09/2021,PUCHONG,malay,selangor,SRC,Y-135LC AC,48,approved
+4806,01/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-Y15ZR,36,stockout
+4807,01/09/2021,SA,malay,selangor,MNC,Y-135LC AC,48,rejected
+4809,01/09/2021,SS,malay,selangor,MNC,Y-Y15ZR,48,stockout
+4813,01/09/2021,T.PULAI,malay,selangor,HR,Y-115Z(UE15),36,rejected
+4814,01/09/2021,T.PULAI,malay,selangor,FASH,Y-NVXV2,36,approved
+4817,04/09/2021,SENTUL,indian,kuala_lumpur,MASS,Y-135LC AC,24,approved
+4819,02/09/2021,SUBANG,malay,selangor,TRD,Y-Y15ZR,48,cancelled
+4840,07/09/2021,SS,malay,selangor,SRC,Y-135LC AC,36,approved
+4842,01/09/2021,R.PANJANG,indian,selangor,MNC,Y-Y15ZR,36,approved
+4844,02/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-115Z(UE15),36,approved
+4845,01/09/2021,R.PANJANG,malay,selangor,MNC,H-RS150R TRICO,36,approved
+4848,02/09/2021,SA,malay,selangor,MNC,H-RS150R TRICO,48,stockout
+4850,02/09/2021,T.PULAI,malay,selangor,SRC,H-RS150R TRICO,48,stockout
+4865,01/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,48,rejected
+4881,08/09/2021,PUCHONG,malay,selangor,SALE,Y-Y16ZR,48,approved
+4884,06/09/2021,KAPAR,malay,selangor,EDU,Y-Y16ZR,36,approved
+4888,02/09/2021,SENTUL,malay,selangor,HLTH,Y-NVXABS,48,stockout
+4889,03/09/2021,SS,malay,selangor,HLTH,Y-Y16ZR,48,rejected
+4892,05/09/2021,K.SELANGOR,malay,selangor,MNC,Y-115Z(UE15),36,approved
+4899,10/09/2021,R.PANJANG,malay,selangor,SRC,H-DASHR152,36,rejected
+4904,03/09/2021,R.PANJANG,malay,selangor,MNC,Y-135LC AC,24,approved
+4907,02/09/2021,K.LAMA,malay,selangor,SRC,Y-EGOAV,36,rejected
+4915,11/09/2021,SUBANG,malay,selangor,SRC,H-BEAT(ACH110),36,approved
+4917,01/09/2021,SS,indian,selangor,OTH,Y-Y15ZR,36,approved
+4918,03/09/2021,SUBANG,malay,selangor,BKFN,Y-Y15ZR,36,rejected
+4920,01/09/2021,K.LAMA,malay,selangor,SRC,Y-135LC AC,48,approved
+4921,01/09/2021,T.PULAI,malay,selangor,O&G,Y-Y16ZR,48,stockout
+4922,01/09/2021,SS,indian,selangor,OTH,Y-135LC AC,36,stockout
+4923,01/09/2021,K.LAMA,malay,kuala_lumpur,SRC,H-WAVER125IM,48,rejected
+4924,01/09/2021,SS,malay,kuala_lumpur,MNC,H-WAVER125IM,48,reverted
+4925,02/09/2021,SS,malay,kelantan,SRC,Y-Y15ZR,48,rejected
+4926,01/09/2021,K.LAMA,malay,selangor,SRC,Y-115Z(UE15),36,rejected
+4927,01/09/2021,T.PULAI,malay,selangor,MNC,Y-135LC AC,48,stockout
+4928,01/09/2021,K.LAMA,malay,selangor,SRC,Y-Y15ZR,48,approved
+4929,01/09/2021,K.LAMA,malay,selangor,SRC,H-RS150R TRICO,48,cancelled
+4930,01/09/2021,RAWANG,malay,selangor,SRC,Y-115Z(UE15),48,rejected
+4932,01/09/2021,SS,malay,selangor,MNC,Y-115Z(UE15),48,approved
+4935,01/09/2021,T.PULAI,malay,selangor,MNC,H-RS150RR,48,stockout
+4936,01/09/2021,R.PANJANG,indian,selangor,HLTH,Y-Y15ZR,48,rejected
+4937,01/09/2021,CHERAS,malay,kuala_lumpur,OTH,Y-Y15ZR,36,rejected
+4938,01/09/2021,S.UTAMA,malay,selangor,HR,Y-Y15ZR,48,approved
+4939,01/09/2021,PUCHONG,malay,selangor,SRC,Y-135LC AC,48,approved
+4940,01/09/2021,SA,malay,selangor,SRC,H-ADV150A,48,stockout
+4941,01/09/2021,K.LAMA,malay,selangor,SRC,Y-115Z(UE15),48,reverted
+4942,01/09/2021,T.PULAI,malay,selangor,MNC,Y-135LC AC,48,approved
+4943,01/09/2021,K.LAMA,malay,kuala_lumpur,SRC,Y-Y15ZR,36,stockout
+4944,01/09/2021,K.LAMA,malay,selangor,SRC,Y-Y15ZR,36,approved
+4945,01/09/2021,R.PANJANG,others,selangor,SRC,Y-115Z(UE15),48,rejected
+4946,01/09/2021,K.LAMA,malay,selangor,SRC,Y-135LC AC,36,stockout
+4947,01/09/2021,RAWANG,malay,selangor,SRC,H-RS150RR,36,stockout
+4949,01/09/2021,SS,malay,selangor,SRC,Y-115Z(UE15),48,reverted
+4950,01/09/2021,SA,malay,selangor,MNC,Y-Y15ZR,36,rejected
+4953,01/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,24,rejected
+4954,02/09/2021,S.UTAMA,malay,selangor,TRD,Y-135LC AC,36,rejected
+4955,01/09/2021,K.LAMA,malay,selangor,SRC,H-WAVES125I,48,stockout
+4956,01/09/2021,MERU,malay,selangor,GIG,Y-Y15ZR,36,cancelled
+4957,01/09/2021,ONLINE SALES,malay,selangor,F&B,Y-115Z(UE15),36,rejected
+4958,06/09/2021,KAPAR,indian,selangor,MNC,Y-135LC AC,48,approved
+4959,02/09/2021,CHERAS,malay,melaka,OTH,Y-Y16ZR,36,rejected
+4960,02/09/2021,R.PANJANG,malay,selangor,SRC,H-WAVES125I,36,rejected
+4962,02/09/2021,SS,malay,selangor,HLTH,Y-EGOAV,36,rejected
+4963,02/09/2021,PUCHONG,malay,selangor,SRC,Y-YZFR15,48,rejected
+4964,02/09/2021,SRI KBGAN,malay,kuala_lumpur,SRC,H-RS150R TRICO,48,rejected
+4965,02/09/2021,SS,malay,selangor,IT,Y-Y15ZR,48,rejected
+4966,02/09/2021,PUCHONG,malay,selangor,SRC,Y-115Z(UE15),48,rejected
+4967,02/09/2021,RAWANG,malay,selangor,SRC,H-WAVEAL,48,stockout
+4968,03/09/2021,T.PULAI,malay,selangor,MNC,H-WAVES125I,48,cancelled
+4969,02/09/2021,PUCHONG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+4970,02/09/2021,SUBANG,indian,selangor,OTH,H-BEAT(ACH110),48,rejected
+4971,02/09/2021,SS,malay,selangor,OTH,Y-135LC AC,36,stockout
+4972,02/09/2021,K.LAMA,malay,selangor,SRC,Y-115Z(UE15),36,approved
+4973,02/09/2021,SENTOSA,malay,kuala_lumpur,OTH,Y-EGOSO,48,cancelled
+4974,02/09/2021,SUBANG,others,selangor,OTH,Y-135LC AC,48,stockout
+4975,02/09/2021,R.PANJANG,malay,selangor,MNC,H-WAVER125IM,36,stockout
+4976,02/09/2021,SENTUL,malay,kuala_lumpur,OTH,Y-Y15ZR,36,stockout
+4977,02/09/2021,PUCHONG,malay,selangor,SRC,H-WAVER125I,48,rejected
+4978,06/09/2021,S.UTAMA,malay,selangor,MNC,Y-115Z(UE15),48,reverted
+4979,02/09/2021,SENTOSA,malay,selangor,MNC,Y-115Z(UE15),36,cancelled
+4980,02/09/2021,S.BULOH,malay,selangor,MNC,Y-135LC AC,48,rejected
+4981,03/09/2021,SS,malay,kuala_lumpur,SALE,H-VARIO150R,36,stockout
+4982,02/09/2021,ONLINE SALES,malay,selangor,OTH,H-WAVER125I,48,cancelled
+4983,02/09/2021,SENTOSA,malay,selangor,HTL,Y-115Z(UE15),48,rejected
+4984,02/09/2021,SENTOSA,indian,selangor,SRC,Y-Y15ZR,48,approved
+4985,04/09/2021,PUCHONG,malay,selangor,SRC,Y-Y15ZR,48,stockout
+4986,02/09/2021,S.BULOH,malay,selangor,SALE,Y-115Z(UE15),48,reverted
+4987,03/09/2021,SENTOSA,malay,selangor,MNC,Y-Y15ZR,48,rejected
+4988,02/09/2021,S.UTAMA,malay,selangor,GIG,Y-Y15ZR,48,rejected
+4991,02/09/2021,SENTUL,indian,kuala_lumpur,SRC,Y-Y16ZR,48,stockout
+4992,02/09/2021,K.SELANGOR,malay,selangor,F&B,H-ADV150A,48,stockout
+4994,02/09/2021,S.UTAMA,malay,selangor,OTH,H-RS150R TRICO,36,rejected
+4995,06/09/2021,PUCHONG,malay,selangor,SRC,H-RS150R TRICO,48,rejected
+4996,03/09/2021,RAWANG,indian,selangor,SRC,Y-EGOAV,24,rejected
+4998,02/09/2021,KAPAR,indian,selangor,EDU,Y-Y16ZR,36,approved
+4999,02/09/2021,SENTOSA,malay,selangor,OTH,Y-EGOSO,24,reverted
+5000,02/09/2021,R.PANJANG,malay,selangor,MNC,Y-Y15ZR,36,reverted
+5001,02/09/2021,ONLINE SALES,malay,selangor,OTH,Y-115Z(UE15),24,cancelled
+5002,06/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-Y15ZR,36,approved
+5003,05/09/2021,SUBANG,indian,selangor,SRC,Y-Y15ZR,36,cancelled
+5004,03/09/2021,SENTUL,malay,kuala_lumpur,HLTH,Y-NVXABS,36,approved
+5005,03/09/2021,T.PULAI,malay,selangor,SALE,Y-135LC AC,24,rejected
+5006,03/09/2021,T.PULAI,malay,selangor,MNC,Y-135LC AC,36,stockout
+5007,03/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,48,approved
+5008,03/09/2021,RAWANG,indian,selangor,SRC,Y-115Z(UE15),36,approved
+5009,03/09/2021,SENTUL,malay,selangor,SRC,Y-135LC AC,48,approved
+5010,03/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,36,rejected
+5012,03/09/2021,R.PANJANG,malay,selangor,OTH,Y-115Z(UE15),48,approved
+5013,03/09/2021,S.UTAMA,malay,selangor,SRC,H-RS150R TRICO,48,stockout
+5014,03/09/2021,T.PULAI,malay,selangor,MNC,H-RS150R TRICO,36,rejected
+5015,03/09/2021,SENTUL,malay,selangor,SRC,Y-Y15ZR,48,cancelled
+5016,03/09/2021,SS,malay,selangor,TRD,Y-Y15ZR,48,reverted
+5017,03/09/2021,S.UTAMA,malay,selangor,SRC,Y-NVXV2,48,cancelled
+5018,03/09/2021,SENTUL,indian,selangor,SRC,Y-Y15ZR,48,rejected
+5019,03/09/2021,ONLINE SALES,malay,selangor,HLTH,Y-Y16ZR,36,stockout
+5020,03/09/2021,R.PANJANG,malay,selangor,ENGI,Y-115Z(UE15),48,reverted
+5021,03/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,stockout
+5022,03/09/2021,K.SELANGOR,indian,selangor,MNC,Y-115Z(UE15),36,approved
+5023,03/09/2021,SENTOSA,indian,selangor,MNC,H-BEAT(ACH110),48,approved
+5024,03/09/2021,SS,malay,selangor,SRC,Y-115Z(UE15),24,approved
+5025,03/09/2021,S.UTAMA,malay,selangor,MNC,Y-135LC AC,48,rejected
+5026,03/09/2021,K.SELANGOR,malay,selangor,MNC,Y-Y15ZR,36,approved
+5027,06/09/2021,S.UTAMA,malay,kuala_lumpur,OTH,Y-Y15ZR,48,rejected
+5029,03/09/2021,SENTOSA,malay,selangor,MNC,H-RS150R TRICO,48,reverted
+5030,06/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,24,approved
+5031,03/09/2021,SS,malay,selangor,SRC,Y-135LC AC,36,rejected
+5032,05/09/2021,S.UTAMA,malay,selangor,GIG,Y-135LC AC,36,rejected
+5034,03/09/2021,R.PANJANG,malay,selangor,SRC,H-RS150R TRICO,48,approved
+5035,03/09/2021,S.UTAMA,malay,selangor,TRD,Y-135LC AC,48,reverted
+5036,13/09/2021,SENTOSA,indian,selangor,SRC,Y-115Z(UE15),36,rejected
+5037,03/09/2021,SA,malay,selangor,OTH,H-RS150R TRICO,36,cancelled
+5038,03/09/2021,MERU,malay,selangor,SALE,H-RS150R TRICO,48,approved
+5039,08/09/2021,MERU,malay,selangor,SRC,Y-Y15ZR,24,approved
+5041,03/09/2021,MERU,malay,selangor,MNC,Y-115Z(UE15),36,rejected
+5042,03/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,48,approved
+5043,03/09/2021,SENTUL,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5044,03/09/2021,SENTUL,malay,kuala_lumpur,HLTH,Y-NVXV2,48,approved
+5045,03/09/2021,PUCHONG,malay,selangor,SRC,Y-Y15ZR,48,approved
+5046,03/09/2021,RAWANG,malay,kuala_lumpur,SRC,Y-Y15ZR-WA,48,cancelled
+5047,03/09/2021,R.PANJANG,malay,selangor,SRC,Y-Y16ZR,48,approved
+5048,03/09/2021,SA,malay,selangor,OTH,H-RS150R TRICO,36,rejected
+5049,03/09/2021,K.LAMA,malay,selangor,SRC,H-RS150R TRICO,48,cancelled
+5050,06/09/2021,K.LAMA,malay,selangor,SRC,H-WAVES125I,48,reverted
+5051,03/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,rejected
+5052,03/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,cancelled
+5053,04/09/2021,MERU,indian,selangor,MNC,Y-115Z(UE15),36,reverted
+5054,04/09/2021,SS,indian,selangor,SRC,Y-135LC AC,48,rejected
+5055,04/09/2021,SENTOSA,malay,selangor,HR,Y-NVXV2,48,cancelled
+5056,04/09/2021,T.PULAI,malay,selangor,MNC,Y-NMAX,48,rejected
+5057,04/09/2021,SENTUL,malay,selangor,MNC,Y-Y15ZR,48,rejected
+5059,04/09/2021,MERU,malay,selangor,MNC,H-BEAT(ACH110),36,cancelled
+5060,04/09/2021,SENTOSA,malay,selangor,MNC,Y-Y15ZR,48,cancelled
+5061,04/09/2021,SUBANG,malay,selangor,MNC,Y-Y15ZR,48,reverted
+5062,04/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5063,07/09/2021,S.BULOH,malay,selangor,MNC,Y-Y15ZR,48,stockout
+5065,04/09/2021,MERU,malay,selangor,MNC,Y-Y15ZR,36,stockout
+5066,11/09/2021,SA,malay,selangor,TRD,H-EX5NBC110MCDH,24,approved
+5067,04/09/2021,S.BULOH,malay,kuala_lumpur,SRC,Y-135LC AC,48,rejected
+5068,06/09/2021,CHERAS,malay,selangor,HLTH,Y-Y15ZR,24,stockout
+5070,08/09/2021,SENTUL,malay,negeri_sembilan,SRC,Y-135LC AC,36,approved
+5071,06/09/2021,S.BULOH,others,selangor,SRC,H-RS150R TRICO,36,stockout
+5072,04/09/2021,RAWANG,indian,selangor,SRC,H-WAVER125IM,48,stockout
+5074,05/09/2021,PUCHONG,malay,selangor,GOODS,Y-Y15ZR,48,stockout
+5075,06/09/2021,K.SELANGOR,malay,selangor,HR,Y-115Z(UE15),48,approved
+5079,05/09/2021,K.LAMA,malay,selangor,SRC,Y-Y15ZR,36,rejected
+5080,05/09/2021,T.PULAI,indian,selangor,SRC,Y-Y15ZR,48,cancelled
+5081,05/09/2021,SS,others,selangor,SRC,Y-115Z(UE15),48,rejected
+5083,05/09/2021,SA,malay,selangor,SRC,Y-Y16ZR,48,rejected
+5084,05/09/2021,SENTOSA,indian,selangor,MNC,Y-135LC AC,24,approved
+5085,06/09/2021,SENTOSA,malay,selangor,SRC,H-WAVER125I,48,rejected
+5086,08/09/2021,SA,malay,selangor,HLTH,Y-Y15ZR,48,approved
+5087,05/09/2021,SS,malay,selangor,SRC,H-RS150R TRICO,36,rejected
+5088,07/09/2021,SENTUL,malay,kuala_lumpur,SALE,Y-135LC AC,36,approved
+5089,06/09/2021,MERU,malay,selangor,MNC,Y-NVXABS,24,approved
+5090,05/09/2021,SENTUL,malay,selangor,F&B,Y-115Z(UE15),48,reverted
+5091,05/09/2021,MERU,malay,negeri_sembilan,MNC,Y-135LC AC,36,rejected
+5092,05/09/2021,K.SELANGOR,malay,selangor,ENGI,H-BEAT(ACH110),36,rejected
+5093,05/09/2021,MERU,malay,selangor,ENGI,Y-135LC AC,36,approved
+5094,05/09/2021,MERU,malay,selangor,MNC,Y-EGOSO,48,rejected
+5095,05/09/2021,MERU,malay,selangor,MNC,Y-115Z(UE15),36,approved
+5096,05/09/2021,K.SELANGOR,malay,selangor,SALE,Y-115Z(UE15),36,rejected
+5097,05/09/2021,S.UTAMA,malay,selangor,OTH,Y-135LC AC,36,cancelled
+5098,05/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,36,approved
+5099,05/09/2021,SA,malay,selangor,HLTH,Y-Y16ZR,24,approved
+5100,05/09/2021,K.SELANGOR,indian,selangor,MNC,Y-Y15ZR,36,rejected
+5101,05/09/2021,SUBANG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5102,05/09/2021,SA,indian,selangor,SRC,Y-135LC AC,48,stockout
+5103,05/09/2021,SA,indian,selangor,SRC,Y-135LC AC,48,rejected
+5104,05/09/2021,SENTUL,malay,kuala_lumpur,F&B,H-RS150R TRICO,48,reverted
+5105,08/09/2021,SA,malay,selangor,MASS,Y-Y15ZR,36,approved
+5106,06/09/2021,SS,malay,sabah,TRVL,Y-Y15ZR,36,rejected
+5107,06/09/2021,SS,malay,selangor,BUID,Y-135LC AC,36,reverted
+5108,06/09/2021,S.UTAMA,malay,selangor,SALE,Y-Y15ZR,48,stockout
+5110,06/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,cancelled
+5111,06/09/2021,SRI KBGAN,malay,selangor,SRC,H-RS150R TRICO,48,rejected
+5112,06/09/2021,SA,malay,selangor,SRC,Y-135LC AC,24,stockout
+5113,06/09/2021,MERU,malay,selangor,EDU,Y-NVXABS,48,approved
+5114,06/09/2021,SRI KBGAN,malay,pahang,TRD,H-RS150R TRICO,48,rejected
+5116,13/09/2021,MERU,malay,selangor,SRC,Y-135LC SE,36,approved
+5117,06/09/2021,MERU,malay,selangor,MNC,Y-Y16ZR,24,cancelled
+5118,06/09/2021,PUCHONG,malay,selangor,OTH,H-RS150R TRICO,24,approved
+5119,06/09/2021,KAPAR,malay,selangor,SRC,H-EX5NBC110MCDH,48,approved
+5120,06/09/2021,K.SELANGOR,malay,selangor,MNC,H-RS150R TRICO,36,approved
+5121,14/09/2021,SA,malay,selangor,SRC,H-BEAT(ACH110),36,approved
+5122,08/09/2021,SENTUL,malay,selangor,SRC,Y-115Z(UE15),36,approved
+5123,07/09/2021,KAPAR,malay,selangor,MNC,Y-Y15ZR,48,approved
+5124,06/09/2021,K.LAMA,malay,kuala_lumpur,SRC,Y-Y15ZR,48,stockout
+5126,06/09/2021,T.PULAI,malay,selangor,MNC,Y-135LC AC,36,approved
+5127,06/09/2021,KAPAR,malay,selangor,MNC,Y-EGOAV,36,reverted
+5129,07/09/2021,SS,malay,selangor,MNC,Y-Y15ZR,24,stockout
+5130,06/09/2021,ONLINE SALES,malay,selangor,ENGI,Y-135LC AC,36,approved
+5132,06/09/2021,SENTOSA,indian,selangor,MNC,Y-Y16ZR,24,stockout
+5135,06/09/2021,K.SELANGOR,malay,selangor,MNC,H-RS150R TRICO,48,stockout
+5136,06/09/2021,PUCHONG,malay,selangor,SRC,H-WAVER125IM,48,stockout
+5137,06/09/2021,RAWANG,malay,selangor,SRC,Y-135LC AC,48,cancelled
+5138,13/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),36,reverted
+5139,06/09/2021,K.SELANGOR,malay,selangor,SRC,Y-115Z(UE15),36,approved
+5141,06/09/2021,SA,malay,selangor,F&B,H-WAVER125I,48,rejected
+5142,06/09/2021,CHERAS,malay,kuala_lumpur,OTH,Y-135LC AC,36,stockout
+5143,06/09/2021,K.SELANGOR,indian,selangor,MNC,Y-Y15ZR,36,approved
+5144,06/09/2021,S.BULOH,malay,kuala_lumpur,SRC,H-WAVER125IM,36,rejected
+5145,06/09/2021,SA,malay,selangor,OTH,H-VARIO150,36,stockout
+5146,06/09/2021,RAWANG,indian,selangor,SRC,H-WAVEAL,48,rejected
+5147,06/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,36,approved
+5148,06/09/2021,PANGLIMA,malay,selangor,OTH,Y-EGOSO,48,rejected
+5149,07/09/2021,SS,malay,selangor,OTH,Y-135LC SE,36,stockout
+5150,06/09/2021,S.BULOH,malay,selangor,MNC,H-RS150R TRICO,36,rejected
+5151,06/09/2021,S.BULOH,malay,selangor,SRC,Y-Y15ZR,48,cancelled
+5152,06/09/2021,S.BULOH,indian,selangor,OTH,H-WAVES125I,48,rejected
+5153,06/09/2021,PANGLIMA,indian,selangor,MNC,Y-EGOSO,24,reverted
+5154,06/09/2021,PANGLIMA,malay,selangor,MNC,Y-EGOSO,48,rejected
+5155,06/09/2021,RAWANG,indian,selangor,SRC,H-WAVEAL,48,rejected
+5156,06/09/2021,SRI KBGAN,malay,selangor,SRC,H-RS150R TRICO,48,rejected
+5157,10/09/2021,RAWANG,malay,selangor,SRC,Y-115Z(UE15),48,approved
+5158,07/09/2021,SRI KBGAN,malay,selangor,SRC,Y-Y16ZR,36,rejected
+5159,07/09/2021,RAWANG,malay,negeri_sembilan,SRC,Y-Y15ZR,48,rejected
+5161,07/09/2021,PUCHONG,indian,selangor,SRC,Y-135LC AC,48,rejected
+5162,07/09/2021,R.PANJANG,malay,selangor,MNC,H-WAVER125IM,36,reverted
+5163,07/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5165,08/09/2021,K.LAMA,malay,selangor,SRC,Y-NVXV2,48,approved
+5166,07/09/2021,SENTUL,malay,kelantan,SRC,Y-Y15ZR,48,rejected
+5167,07/09/2021,KAPAR,malay,selangor,MNC,Y-135LC AC,48,reverted
+5168,07/09/2021,S.BULOH,malay,selangor,ENGI,Y-NVXABS,24,rejected
+5169,07/09/2021,S.BULOH,malay,selangor,SRC,Y-135LC AC,36,stockout
+5170,07/09/2021,K.SELANGOR,malay,selangor,SRC,Y-135LC AC,24,stockout
+5171,07/09/2021,CHERAS,malay,selangor,OTH,Y-NVXV2,36,rejected
+5172,07/09/2021,R.PANJANG,malay,negeri_sembilan,SRC,H-RS150R TRICO,36,approved
+5173,07/09/2021,SENTUL,others,kuala_lumpur,SALE,Y-YZFR15,48,rejected
+5174,07/09/2021,S.BULOH,malay,selangor,OTH,H-DASHR152,48,cancelled
+5175,09/09/2021,SS,malay,selangor,MNC,Y-NVXV2,48,rejected
+5176,07/09/2021,PUCHONG,indian,selangor,MNC,Y-Y15ZR,24,approved
+5177,07/09/2021,PUCHONG,malay,selangor,ENGI,Y-Y16ZR,48,rejected
+5178,07/09/2021,PUCHONG,malay,selangor,SALE,H-VARIO150,48,approved
+5179,07/09/2021,ONLINE SALES,malay,kuala_lumpur,MNC,Y-135LC AC,48,stockout
+5180,07/09/2021,PANGLIMA,chinese,selangor,ENT,Y-EGOSO,36,rejected
+5181,13/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),36,rejected
+5182,07/09/2021,SRI KBGAN,malay,kuala_lumpur,TRD,H-RS150R TRICO,48,rejected
+5183,07/09/2021,SRI KBGAN,indian,selangor,TRD,Y-135LC AC,48,rejected
+5184,09/09/2021,SUBANG,malay,selangor,SRC,Y-Y15ZR,36,stockout
+5185,07/09/2021,PUCHONG,malay,selangor,MNC,Y-Y16ZR,48,rejected
+5186,07/09/2021,SUBANG,malay,selangor,GIG,Y-Y15ZR,36,rejected
+5187,07/09/2021,ONLINE SALES,malay,selangor,SRC,Y-115Z(UE15),36,approved
+5188,07/09/2021,KAPAR,malay,selangor,MNC,Y-115Z(UE15),36,rejected
+5189,07/09/2021,SUBANG,indian,selangor,SALE,Y-EGOSO,48,cancelled
+5190,09/09/2021,SUBANG,malay,selangor,SRC,Y-Y16ZR,48,approved
+5191,07/09/2021,SENTUL,malay,selangor,F&B,Y-Y15ZR,48,rejected
+5192,07/09/2021,SENTOSA,indian,selangor,MNC,Y-Y15ZR,24,approved
+5195,08/09/2021,R.PANJANG,malay,selangor,MNC,H-WAVES125I,48,stockout
+5196,08/09/2021,SA,malay,selangor,SRC,Y-135LC AC,48,rejected
+5197,08/09/2021,ONLINE SALES,malay,kuala_lumpur,MNC,Y-135LC AC,36,approved
+5198,08/09/2021,MERU,malay,selangor,ENGI,H-RS150R TRICO,48,rejected
+5200,08/09/2021,K.SELANGOR,malay,selangor,MNC,H-RS150R TRICO,48,rejected
+5201,08/09/2021,PUCHONG,malay,selangor,MNC,Y-115Z(UE15),24,rejected
+5202,08/09/2021,PUCHONG,indian,selangor,HLTH,H-WAVEAL,48,rejected
+5203,08/09/2021,RAWANG,indian,selangor,SRC,Y-135LC AC,36,approved
+5204,08/09/2021,PUCHONG,malay,selangor,SRC,Y-YZFR15,36,rejected
+5205,08/09/2021,CHERAS,malay,kuala_lumpur,F&B,Y-135LC AC,36,stockout
+5206,08/09/2021,K.SELANGOR,malay,selangor,SRC,Y-135LC AC,48,approved
+5207,08/09/2021,ONLINE SALES,malay,selangor,OTH,Y-115Z(UE15),36,cancelled
+5208,08/09/2021,ONLINE SALES,malay,selangor,OTH,Y-135LC AC,48,rejected
+5209,08/09/2021,SS,malay,selangor,OTH,Y-135LC AC,36,rejected
+5210,09/09/2021,RAWANG,malay,selangor,SRC,Y-135LC AC,48,approved
+5212,08/09/2021,R.PANJANG,malay,selangor,MNC,H-BEAT(ACH110),36,approved
+5213,08/09/2021,K.LAMA,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5214,08/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-Y15ZR,48,rejected
+5215,09/09/2021,S.UTAMA,malay,selangor,F&B,H-DASHR152,36,approved
+5216,08/09/2021,R.PANJANG,malay,selangor,MNC,Y-135LC AC,48,approved
+5217,08/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,cancelled
+5218,08/09/2021,K.LAMA,malay,selangor,OTH,Y-Y16ZR,36,rejected
+5219,08/09/2021,SENTOSA,indian,selangor,SRC,Y-135LC AC,36,rejected
+5220,08/09/2021,SRI KBGAN,malay,selangor,SRC,Y-135LC AC,36,stockout
+5222,08/09/2021,R.PANJANG,malay,selangor,MNC,H-WAVES125I,36,stockout
+5223,08/09/2021,RAWANG,malay,putrajaya,SRC,Y-Y15ZR,24,stockout
+5224,13/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),36,rejected
+5226,08/09/2021,S.BULOH,malay,selangor,ENGI,H-RS150R TRICO,48,approved
+5228,08/09/2021,R.PANJANG,malay,selangor,MNC,Y-Y15ZR,48,stockout
+5229,09/09/2021,PUCHONG,indian,selangor,SRC,Y-115Z(UE15),48,rejected
+5230,08/09/2021,ONLINE SALES,malay,selangor,MNC,Y-135LC AC,36,approved
+5232,08/09/2021,ONLINE SALES,malay,selangor,OTH,H-WAVEALDR,36,stockout
+5234,08/09/2021,T.PULAI,malay,selangor,MNC,Y-Y15ZR,24,approved
+5235,14/09/2021,SS,indian,selangor,OTH,Y-Y15ZR,48,rejected
+5237,08/09/2021,SS,malay,selangor,OTH,H-DASHRREPSOL,24,rejected
+5239,08/09/2021,MERU,malay,selangor,MNC,H-VARIO150,36,rejected
+5240,09/09/2021,MERU,malay,selangor,MNC,Y-Y16ZR,24,rejected
+5241,08/09/2021,MERU,malay,selangor,MNC,H-RS150RR,48,stockout
+5242,08/09/2021,MERU,malay,selangor,MNC,H-RS150RR,48,approved
+5243,13/09/2021,MERU,malay,selangor,SRC,Y-135LC AC,36,approved
+5245,13/09/2021,SENTOSA,indian,selangor,TRD,Y-NVXABS,48,rejected
+5246,08/09/2021,PANGLIMA,malay,selangor,MNC,H-WAVER125I,36,reverted
+5247,08/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,stockout
+5248,09/09/2021,ONLINE SALES,malay,selangor,F&B,Y-115Z(UE15),24,approved
+5249,09/09/2021,SA,malay,selangor,MNC,Y-115Z(UE15),48,reverted
+5250,09/09/2021,ONLINE SALES,indian,selangor,SRC,H-WAVES125I,48,rejected
+5251,09/09/2021,PANGLIMA,malay,selangor,MNC,Y-EGOAV,48,rejected
+5252,09/09/2021,PANGLIMA,malay,selangor,O&G,Y-115Z(UE15),48,rejected
+5253,09/09/2021,PANGLIMA,malay,selangor,SRC,H-RS150R TRICO,48,approved
+5254,09/09/2021,ONLINE SALES,malay,selangor,BUID,Y-135LC AC,36,cancelled
+5255,09/09/2021,ONLINE SALES,malay,selangor,SRC,Y-Y15ZR,36,rejected
+5257,09/09/2021,RAWANG,malay,selangor,SRC,Y-Y16ZR,36,rejected
+5258,09/09/2021,K.LAMA,malay,selangor,SRC,Y-135LC AC,36,rejected
+5259,09/09/2021,ONLINE SALES,malay,selangor,OTH,Y-Y15ZR,48,cancelled
+5260,09/09/2021,K.LAMA,malay,selangor,SRC,Y-135LC AC,48,rejected
+5261,09/09/2021,RAWANG,malay,selangor,SRC,Y-135LC AC,48,stockout
+5262,09/09/2021,SS,malay,selangor,OTH,Y-Y16ZR,24,reverted
+5263,15/09/2021,SUBANG,malay,selangor,TRD,Y-EGOAV,24,approved
+5264,09/09/2021,PUCHONG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5265,09/09/2021,MERU,malay,selangor,TRD,Y-NVXV2,24,cancelled
+5266,09/09/2021,SS,malay,selangor,MNC,Y-Y15ZR,48,rejected
+5268,09/09/2021,SRI KBGAN,malay,selangor,SRC,H-RS150R TRICO,48,reverted
+5269,09/09/2021,RAWANG,indian,selangor,SRC,Y-135LC AC,24,approved
+5270,09/09/2021,S.UTAMA,malay,selangor,ENGI,Y-115Z(UE15),48,approved
+5271,09/09/2021,SENTUL,indian,kuala_lumpur,ECOM,Y-135LC AC,48,reverted
+5273,13/09/2021,S.UTAMA,malay,selangor,MNC,Y-115Z(UE15),48,rejected
+5274,09/09/2021,PANGLIMA,malay,selangor,MNC,H-WAVER125IM,48,reverted
+5275,09/09/2021,R.PANJANG,malay,selangor,MNC,H-RS150R TRICO,48,rejected
+5276,09/09/2021,RAWANG,indian,selangor,SRC,H-RS150R TRICO,48,rejected
+5277,09/09/2021,ONLINE SALES,malay,selangor,MNC,H-DASHRREPSOL,48,rejected
+5278,15/09/2021,PANGLIMA,malay,selangor,MNC,H-WAVER125IM,48,verification
+5279,09/09/2021,ONLINE SALES,malay,selangor,OTH,Y-135LC AC,36,rejected
+5280,09/09/2021,ONLINE SALES,malay,selangor,TRD,H-DASHRREPSOL,48,rejected
+5281,09/09/2021,ONLINE SALES,malay,selangor,EDU,Y-115Z(UE15),48,rejected
+5282,13/09/2021,PUCHONG,malay,selangor,SRC,Y-Y16ZR,48,reverted
+5284,09/09/2021,S.UTAMA,malay,selangor,MNC,Y-EGOSO,48,approved
+5285,09/09/2021,MERU,malay,selangor,MNC,Y-Y16ZR,24,cancelled
+5286,11/09/2021,PUCHONG,indian,selangor,SRC,H-RS150R TRICO,48,rejected
+5287,09/09/2021,R.PANJANG,malay,selangor,SRC,Y-115Z(UE15),24,reverted
+5288,09/09/2021,PUCHONG,malay,selangor,SRC,Y-135LC AC,36,rejected
+5289,09/09/2021,SENTUL,malay,selangor,EDU,H-WAVEAL,48,cancelled
+5290,09/09/2021,S.UTAMA,indian,selangor,MNC,Y-Y15ZR,48,approved
+5291,09/09/2021,KAPAR,indian,selangor,EDU,H-WAVES125I,48,rejected
+5292,09/09/2021,S.BULOH,malay,selangor,SALE,Y-NVXABS,36,rejected
+5293,09/09/2021,SENTUL,malay,selangor,F&B,Y-NVXV2,48,reverted
+5294,15/09/2021,S.BULOH,malay,selangor,SRC,H-WAVER125IM,48,rejected
+5295,13/09/2021,MERU,malay,selangor,MNC,Y-YZFR15,48,rejected
+5296,09/09/2021,ONLINE SALES,malay,kuala_lumpur,SRC,Y-135LC AC,48,reverted
+5297,09/09/2021,MERU,malay,selangor,MNC,Y-Y15ZR,36,approved
+5298,09/09/2021,MERU,malay,selangor,SRC,Y-115Z(UE15),36,rejected
+5299,09/09/2021,SENTUL,malay,kuala_lumpur,TRD,Y-135LC AC,48,reverted
+5300,09/09/2021,R.PANJANG,malay,selangor,SRC,Y-Y15ZR,48,reverted
+5301,09/09/2021,SENTUL,malay,selangor,MNC,Y-Y15ZR,48,approved
+5302,09/09/2021,KAPAR,malay,selangor,MNC,Y-135LC AC,36,rejected
+5303,10/09/2021,CHERAS,malay,kuala_lumpur,BUID,Y-MT15,48,approved
+5304,09/09/2021,SENTUL,malay,kuala_lumpur,BKFN,Y-115Z(UE15),48,approved
+5305,09/09/2021,SENTUL,malay,kuala_lumpur,OTH,Y-Y15ZR,36,approved
+5306,09/09/2021,SENTUL,others,kuala_lumpur,SRC,Y-NVXV2,48,approved
+5307,09/09/2021,PANGLIMA,malay,selangor,MNC,H-WAVER125I,48,cancelled
+5308,09/09/2021,SA,malay,selangor,MNC,Y-Y15ZR,36,approved
+5309,10/09/2021,PANGLIMA,malay,selangor,OTH,H-WAVER125I,48,rejected
+5310,10/09/2021,PUCHONG,malay,selangor,TRD,Y-135LC AC,48,rejected
+5311,10/09/2021,PUCHONG,malay,selangor,GOODS,H-DASHRREPSOL,48,rejected
+5312,10/09/2021,PUCHONG,malay,selangor,GOODS,H-DASHRREPSOL,48,rejected
+5313,10/09/2021,SENTUL,malay,selangor,F&B,H-WAVES125I,48,approved
+5314,15/09/2021,SENTUL,malay,selangor,SRC,Y-Y15ZR,48,approved
+5315,10/09/2021,PUCHONG,indian,selangor,HLTH,H-RS150R TRICO,48,rejected
+5316,10/09/2021,SENTOSA,indian,selangor,SRC,Y-Y15ZR,36,rejected
+5317,10/09/2021,ONLINE SALES,malay,kuala_lumpur,SRC,Y-135LC AC,48,approved
+5318,10/09/2021,SENTOSA,malay,selangor,MNC,Y-135LC AC,36,rejected
+5319,10/09/2021,ONLINE SALES,malay,selangor,MNC,Y-115Z(UE15),36,cancelled
+5320,10/09/2021,CHERAS,malay,selangor,BKFN,Y-Y16ZR,48,rejected
+5321,16/09/2021,SA,malay,selangor,OTH,S-VF3I185LE,48,approved
+5322,10/09/2021,MERU,malay,selangor,MNC,Y-Y15ZR,48,rejected
+5323,10/09/2021,SUBANG,indian,selangor,BUID,Y-Y15ZR,48,rejected
+5324,11/09/2021,T.PULAI,malay,selangor,GOODS,H-BEAT(ACH110),48,stockout
+5325,10/09/2021,MERU,indian,selangor,MNC,Y-NVXABS,36,approved
+5326,10/09/2021,CHERAS,malay,kuala_lumpur,BKFN,Y-NVXABS,48,approved
+5327,10/09/2021,SENTUL,malay,selangor,TRD,H-RS150RR,48,rejected
+5328,10/09/2021,MERU,malay,selangor,MNC,Y-Y15ZR,36,rejected
+5329,10/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,48,cancelled
+5330,10/09/2021,S.BULOH,malay,selangor,SRC,H-RS150R TRICO,48,rejected
+5331,11/09/2021,SA,malay,selangor,MNC,Y-115Z(UE15),24,approved
+5332,10/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,rejected
+5334,10/09/2021,MERU,malay,selangor,MNC,Y-135LC SE,36,cancelled
+5335,15/09/2021,MERU,malay,selangor,MNC,Y-115Z(UE15),36,rejected
+5336,10/09/2021,PUCHONG,malay,kuala_lumpur,SRC,Y-135LC SE,48,reverted
+5337,10/09/2021,RAWANG,malay,kuala_lumpur,SRC,H-RS150R TRICO,48,stockout
+5338,10/09/2021,SUBANG,malay,selangor,SALE,H-WAVER125IM,36,stockout
+5340,10/09/2021,R.PANJANG,malay,selangor,MNC,H-RS150R TRICO,48,reverted
+5341,10/09/2021,SS,malay,selangor,OTH,Y-115Z(UE15),36,approved
+5342,10/09/2021,ONLINE SALES,malay,selangor,SRC,H-RS150R TRICO,24,rejected
+5343,13/09/2021,T.PULAI,malay,selangor,F&B,Y-115Z(UE15),36,rejected
+5346,10/09/2021,ONLINE SALES,malay,kuala_lumpur,SRC,Y-135LC AC,36,approved
+5347,10/09/2021,ONLINE SALES,malay,selangor,SRC,Y-Y15ZR,36,cancelled
+5348,10/09/2021,S.UTAMA,malay,selangor,MNC,Y-135LC AC,48,approved
+5349,10/09/2021,SS,malay,selangor,SRC,Y-135LC AC,24,approved
+5350,10/09/2021,S.UTAMA,malay,selangor,F&B,Y-135LC AC,48,reverted
+5351,10/09/2021,PANGLIMA,malay,selangor,F&B,Y-NVXV2,36,rejected
+5352,10/09/2021,S.UTAMA,malay,selangor,MASS,Y-Y15ZR,36,approved
+5353,10/09/2021,PANGLIMA,malay,selangor,MNC,H-WAVEAL,24,approved
+5354,10/09/2021,SENTUL,malay,selangor,SRC,H-BEAT(ACH110),12,cancelled
+5355,10/09/2021,S.UTAMA,malay,selangor,MNC,Y-NVXABS,24,approved
+5356,13/09/2021,S.BULOH,malay,kuala_lumpur,SRC,Y-Y15ZR,48,rejected
+5357,15/09/2021,PUCHONG,malay,selangor,SRC,Y-EGOAV,48,rejected
+5358,10/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,36,rejected
+5359,11/09/2021,PUCHONG,chinese,kuala_lumpur,SRC,H-WAVEAL,48,stockout
+5361,13/09/2021,K.LAMA,indian,kuala_lumpur,SRC,Y-135LC AC,48,rejected
+5362,11/09/2021,ONLINE SALES,malay,selangor,MASS,Y-135LC AC,36,cancelled
+5363,11/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,cancelled
+5364,11/09/2021,PUCHONG,malay,selangor,O&G,Y-Y16ZR,24,approved
+5365,11/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,cancelled
+5366,11/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,cancelled
+5367,11/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,cancelled
+5369,11/09/2021,ONLINE SALES,malay,selangor,SRC,Y-115Z(UE15),48,cancelled
+5370,11/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,reverted
+5371,11/09/2021,SENTUL,others,kuala_lumpur,SRC,Y-Y15ZR,48,rejected
+5373,11/09/2021,T.PULAI,malay,selangor,MNC,Y-135LC AC,48,reverted
+5374,11/09/2021,SENTUL,malay,selangor,HTL,Y-115Z(UE15),48,rejected
+5375,11/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-135LC AC,36,rejected
+5376,11/09/2021,MERU,indian,selangor,MNC,Y-135LC AC,36,rejected
+5377,11/09/2021,CHERAS,malay,kuala_lumpur,OTH,Y-Y16ZR,36,approved
+5378,11/09/2021,SUBANG,malay,selangor,SRC,Y-EGOSO,24,reverted
+5379,11/09/2021,SRI KBGAN,malay,selangor,SRC,Y-135LC AC,48,approved
+5380,14/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-135LC AC,48,rejected
+5381,11/09/2021,SA,indian,selangor,OTH,Y-135LC AC,24,reverted
+5382,11/09/2021,SUBANG,malay,selangor,SRC,Y-135LC AC,36,reverted
+5384,11/09/2021,SUBANG,malay,selangor,SRC,Y-Y16ZR,36,reverted
+5385,11/09/2021,SUBANG,malay,selangor,SRC,Y-NVXABS,48,rejected
+5386,11/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),36,cancelled
+5387,11/09/2021,SA,malay,selangor,MNC,Y-Y15ZR,48,cancelled
+5388,11/09/2021,SS,malay,selangor,OTH,H-RS150R TRICO,36,rejected
+5389,15/09/2021,SA,malay,selangor,MNC,Y-Y15ZR,48,verification
+5390,11/09/2021,PANGLIMA,malay,negeri_sembilan,OTH,Y-Y15ZR,48,cancelled
+5391,11/09/2021,SA,malay,selangor,SALE,H-ADV150A2,48,rejected
+5393,11/09/2021,SS,malay,selangor,SRC,Y-135LC AC,36,cancelled
+5394,11/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5395,11/09/2021,PANGLIMA,malay,selangor,MNC,Y-Y16ZR,48,rejected
+5397,11/09/2021,ONLINE SALES,malay,selangor,OTH,Y-135LC AC,48,approved
+5398,11/09/2021,PUCHONG,indian,selangor,TRD,Y-135LC AC,48,rejected
+5399,11/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,approved
+5400,11/09/2021,SS,malay,selangor,SRC,Y-115Z(UE15),48,cancelled
+5402,11/09/2021,SENTOSA,indian,selangor,MNC,Y-115Z(UE15),48,rejected
+5403,11/09/2021,S.UTAMA,malay,selangor,OTH,H-RS150R TRICO,48,rejected
+5404,13/09/2021,PUCHONG,indian,selangor,SRC,H-WAVES125I,48,rejected
+5405,14/09/2021,R.PANJANG,malay,selangor,SRC,H-RS150R TRICO,36,approved
+5407,12/09/2021,K.SELANGOR,malay,selangor,ENGI,Y-Y15ZR,48,approved
+5409,12/09/2021,RAWANG,malay,selangor,SRC,H-RS150R TRICO,36,rejected
+5410,12/09/2021,SS,malay,selangor,SRC,Y-Y16ZR,48,reverted
+5411,13/09/2021,SUBANG,malay,selangor,EDU,H-DASHRREPSOL,24,reverted
+5412,12/09/2021,PANGLIMA,malay,selangor,EDU,Y-135LC AC,36,stockout
+5413,12/09/2021,RAWANG,chinese,selangor,SRC,H-DASHRREPSOL,36,approved
+5414,15/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,verification
+5416,14/09/2021,PANGLIMA,malay,selangor,OTH,Y-NVXABS,48,approved
+5417,12/09/2021,PANGLIMA,malay,selangor,OTH,Y-Y15ZR,48,rejected
+5418,12/09/2021,SS,malay,kuala_lumpur,SRC,Y-135LC AC,48,approved
+5419,12/09/2021,RAWANG,malay,selangor,SRC,H-RS150R TRICO,48,rejected
+5420,12/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,48,reverted
+5421,12/09/2021,SS,malay,selangor,ENGI,Y-NVXABS,36,approved
+5422,12/09/2021,PANGLIMA,malay,selangor,MNC,Y-Y15ZR,48,rejected
+5423,12/09/2021,RAWANG,malay,selangor,SRC,Y-115Z(UE15),36,rejected
+5425,12/09/2021,SENTUL,malay,selangor,OTH,Y-135LC AC,48,rejected
+5426,12/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,36,rejected
+5427,12/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-Y15ZR,48,approved
+5428,14/09/2021,SA,malay,selangor,SRC,Y-135LC AC,48,approved
+5430,13/09/2021,SUBANG,malay,selangor,MNC,Y-Y15ZR,36,rejected
+5431,12/09/2021,PANGLIMA,malay,kuala_lumpur,OTH,Y-Y15ZR,48,rejected
+5432,12/09/2021,SENTUL,malay,selangor,HLTH,Y-115Z(UE15),48,approved
+5433,12/09/2021,S.BULOH,malay,kuala_lumpur,F&B,Y-Y15ZR,48,approved
+5434,12/09/2021,PANGLIMA,indian,selangor,SRC,H-WAVEAL,48,rejected
+5435,12/09/2021,S.BULOH,malay,selangor,MNC,Y-Y15ZR,48,rejected
+5436,12/09/2021,SENTUL,malay,kuala_lumpur,TRD,Y-EGOAV,48,approved
+5437,12/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-135LC AC,48,rejected
+5438,12/09/2021,SENTUL,malay,selangor,SRC,Y-135LC AC,36,approved
+5439,12/09/2021,SUBANG,others,selangor,OTH,H-WAVER125I,48,rejected
+5441,12/09/2021,SENTUL,malay,selangor,SRC,Y-NVXV2,48,rejected
+5442,12/09/2021,SA,malay,selangor,ENGI,CBR150RAM/AM9,48,rejected
+5445,12/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5448,12/09/2021,SS,malay,selangor,OTH,H-WAVES125I,36,rejected
+5450,15/09/2021,RAWANG,malay,selangor,SRC,Y-EGOAV,36,rejected
+5451,13/09/2021,RAWANG,malay,selangor,SRC,Y-135LC AC,48,rejected
+5453,13/09/2021,RAWANG,indian,selangor,SRC,S-VF3I185LE,48,stockout
+5454,13/09/2021,ONLINE SALES,malay,selangor,SRC,Y-115Z(UE15),48,reverted
+5455,13/09/2021,K.LAMA,malay,selangor,SRC,S-VF3I185LEPRO,48,stockout
+5456,13/09/2021,RAWANG,malay,selangor,SRC,S-VF3I185LEPRO,48,stockout
+5457,13/09/2021,RAWANG,indian,selangor,SRC,S-VF3I185LE,48,rejected
+5458,13/09/2021,SRI KBGAN,malay,selangor,SRC,S-VF3I185LEPRO,48,rejected
+5459,13/09/2021,SRI KBGAN,malay,kuala_lumpur,TRD,S-VF3I185LEPRO,48,rejected
+5460,13/09/2021,PUCHONG,malay,selangor,SALE,H-RS150R TRICO,24,rejected
+5461,14/09/2021,SA,malay,selangor,MNC,H-RS150R TRICO,36,reverted
+5462,13/09/2021,MERU,malay,selangor,SRC,Y-135LC AC,48,rejected
+5463,13/09/2021,SA,malay,selangor,MNC,S-VF3I185N2,48,rejected
+5464,13/09/2021,S.UTAMA,malay,selangor,TRD,H-WAVER125IM,36,rejected
+5465,13/09/2021,RAWANG,indian,selangor,SRC,Y-NVXABS,48,approved
+5466,13/09/2021,SS,malay,selangor,SRC,Y-115Z(UE15),48,rejected
+5467,13/09/2021,KAPAR,malay,selangor,MNC,H-RS150R TRICO,48,rejected
+5468,13/09/2021,SS,malay,selangor,OTH,Y-Y16ZR,48,cancelled
+5469,13/09/2021,MERU,malay,selangor,SRC,Y-115Z(UE15),36,approved
+5471,13/09/2021,SS,malay,selangor,OTH,Y-135LC AC,36,rejected
+5472,13/09/2021,K.SELANGOR,malay,selangor,MNC,Y-115Z(UE15),24,cancelled
+5473,13/09/2021,S.UTAMA,malay,selangor,EDU,S-VF3I185LE,48,approved
+5474,13/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,36,reverted
+5475,13/09/2021,PANGLIMA,malay,negeri_sembilan,OTH,S-VF3I185LEPRO,48,approved
+5476,16/09/2021,SA,indian,selangor,HLTH,Y-MT15,48,submitted
+5477,13/09/2021,KAPAR,malay,selangor,MNC,H-DASHR152,36,rejected
+5478,14/09/2021,MERU,malay,selangor,SALE,H-WAVEAL,36,reverted
+5479,13/09/2021,K.SELANGOR,indian,selangor,MNC,S-VF3I185LEPRO,48,rejected
+5481,13/09/2021,K.LAMA,indian,selangor,SRC,S-VF3I185LEPRO,48,rejected
+5482,14/09/2021,S.BULOH,malay,selangor,ENT,Y-135LC SE,36,stockout
+5483,13/09/2021,K.SELANGOR,indian,selangor,HLTH,S-VF3I185LEPRO,48,rejected
+5484,13/09/2021,K.LAMA,malay,selangor,SRC,Y-Y16ZR,36,rejected
+5485,13/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,48,rejected
+5486,13/09/2021,K.LAMA,malay,selangor,SRC,S-VF3I185LEPRO,48,rejected
+5487,13/09/2021,PANGLIMA,malay,selangor,OTH,S-VF3I185N2,36,stockout
+5488,13/09/2021,SS,malay,selangor,SRC,Y-135LC AC,36,approved
+5491,13/09/2021,PUCHONG,malay,selangor,SRC,Y-Y15ZR,48,rejected
+5493,13/09/2021,K.SELANGOR,malay,selangor,HR,Y-135LC SE,48,stockout
+5494,13/09/2021,K.LAMA,malay,kuala_lumpur,SRC,S-VF3I185LEPRO,48,rejected
+5495,14/09/2021,SS,malay,selangor,MNC,Y-135LC SE,36,rejected
+5496,15/09/2021,K.SELANGOR,malay,selangor,MNC,H-ADV150A,48,approved
+5497,13/09/2021,ONLINE SALES,malay,selangor,SRC,S-JETX150SE,48,approved
+5498,13/09/2021,KAPAR,indian,selangor,MNC,Y-135LC AC,48,rejected
+5499,13/09/2021,K.LAMA,malay,selangor,SRC,H-WAVER125IM,48,stockout
+5500,15/09/2021,KAPAR,indian,selangor,EDU,Y-115Z(UE15),36,verification
+5501,13/09/2021,ONLINE SALES,malay,selangor,SRC,H-RS150R TRICO,36,rejected
+5502,14/09/2021,T.PULAI,malay,selangor,MNC,Y-Y16ZR,48,approved
+5504,16/09/2021,K.SELANGOR,malay,selangor,GOODS,Y-Y15ZR,36,submitted
+5505,13/09/2021,PANGLIMA,indian,selangor,SRC,Y-Y15ZR,36,cancelled
+5506,13/09/2021,PANGLIMA,malay,selangor,OTH,S-VF3I185LEPRO,48,approved
+5509,15/09/2021,ONLINE SALES,malay,selangor,SRC,S-VF3I185LEPRO,48,rejected
+5510,13/09/2021,K.SELANGOR,malay,selangor,SRC,Y-135LC SE,36,approved
+5511,13/09/2021,PUCHONG,malay,kuala_lumpur,OTH,Y-Y15ZR,48,reverted
+5512,13/09/2021,SENTOSA,malay,selangor,MNC,S-VF3I185LE,48,stockout
+5513,13/09/2021,S.BULOH,malay,selangor,TRD,S-VF3I185LEPRO,48,stockout
+5515,13/09/2021,SENTOSA,malay,selangor,MNC,Y-135LC SE,48,stockout
+5516,14/09/2021,K.LAMA,malay,kuala_lumpur,SRC,S-VF3I185LE,48,rejected
+5517,15/09/2021,K.SELANGOR,malay,selangor,ENGI,Y-135LC AC,36,verification
+5518,14/09/2021,SENTOSA,malay,selangor,SRC,Y-EGOAV,48,rejected
+5519,13/09/2021,K.SELANGOR,malay,selangor,SRC,H-DASHRREPSOL,48,approved
+5520,14/09/2021,RAWANG,indian,selangor,SRC,S-VF3I185LE,48,rejected
+5521,14/09/2021,PUCHONG,malay,melaka,SRC,Y-Y15ZR,36,reverted
+5522,14/09/2021,K.LAMA,malay,selangor,SRC,S-VF3I185LEPRO,36,cancelled
+5523,14/09/2021,RAWANG,indian,selangor,SRC,H-DASHR152,48,approved
+5524,14/09/2021,T.PULAI,malay,selangor,MNC,Y-NVXV2,36,rejected
+5525,14/09/2021,PUCHONG,malay,selangor,EDU,Y-Y15ZR,48,cancelled
+5526,14/09/2021,R.PANJANG,malay,selangor,MNC,H-WAVER125I,36,approved
+5528,14/09/2021,RAWANG,malay,kuala_lumpur,SRC,H-RS150RR,48,stockout
+5529,14/09/2021,ONLINE SALES,malay,selangor,OTH,S-VF3I185LEPRO,48,rejected
+5530,14/09/2021,ONLINE SALES,malay,selangor,OTH,Y-135LC AC,48,approved
+5531,14/09/2021,R.PANJANG,malay,johor,MASS,S-VF3I185LE,48,rejected
+5532,14/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),24,reverted
+5533,14/09/2021,SS,malay,selangor,MNC,Y-Y16ZR,36,approved
+5534,14/09/2021,RAWANG,malay,selangor,SRC,Y-115Z(UE15),48,cancelled
+5535,14/09/2021,SS,malay,selangor,MNC,Y-135LC SE,36,cancelled
+5536,14/09/2021,S.UTAMA,malay,kuala_lumpur,OTH,Y-135LC AC,48,approved
+5537,15/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,36,approved
+5538,14/09/2021,SA,indian,selangor,MNC,H-EX5NBC,36,approved
+5539,14/09/2021,ONLINE SALES,malay,selangor,SRC,S-VF3I185LE,48,rejected
+5540,14/09/2021,S.UTAMA,indian,selangor,MNC,Y-115Z(UE15),48,rejected
+5541,14/09/2021,SS,malay,selangor,ECOM,Y-135LC AC,48,reverted
+5542,14/09/2021,ONLINE SALES,indian,kuala_lumpur,OTH,H-WAVER125I,48,rejected
+5543,14/09/2021,PANGLIMA,indian,selangor,MNC,Y-Y15ZR,36,rejected
+5544,14/09/2021,PUCHONG,malay,selangor,SRC,H-BEAT(ACH110),12,cancelled
+5545,14/09/2021,KAPAR,malay,selangor,MNC,Y-115Z(UE15),36,rejected
+5546,14/09/2021,RAWANG,malay,kuala_lumpur,SRC,S-VF3I185LE,48,rejected
+5548,14/09/2021,PUCHONG,malay,selangor,SRC,Y-MT15,48,rejected
+5549,15/09/2021,PUCHONG,indian,selangor,SRC,Y-135LC AC,48,rejected
+5550,14/09/2021,SRI KBGAN,indian,selangor,SRC,H-BEAT(ACH110),48,approved
+5551,14/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-Y15ZR,48,rejected
+5552,14/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,approved
+5553,14/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),36,cancelled
+5554,14/09/2021,PANGLIMA,malay,selangor,MNC,H-EX5NBC110MCDH,24,stockout
+5555,14/09/2021,R.PANJANG,malay,selangor,MNC,Y-Y15ZR,48,reverted
+5556,14/09/2021,PUCHONG,malay,selangor,SRC,Y-Y15ZR,48,verification
+5557,14/09/2021,K.SELANGOR,malay,selangor,HR,H-RS150RR,48,stockout
+5558,14/09/2021,SS,malay,selangor,F&B,Y-135LC SE,48,rejected
+5559,14/09/2021,PANGLIMA,malay,selangor,MNC,Y-135LC AC,48,approved
+5560,14/09/2021,S.UTAMA,indian,selangor,GOODS,Y-135LC AC,48,rejected
+5561,14/09/2021,PANGLIMA,indian,selangor,MNC,Y-135LC AC,48,approved
+5562,14/09/2021,R.PANJANG,malay,selangor,MNC,Y-Y16ZR,48,rejected
+5563,14/09/2021,SRI KBGAN,malay,kuala_lumpur,SRC,H-RS150R TRICO,48,approved
+5564,14/09/2021,SRI KBGAN,malay,selangor,SRC,H-RS150R TRICO,48,approved
+5565,14/09/2021,SS,malay,selangor,BKFN,Y-135LC AC,24,approved
+5566,14/09/2021,SRI KBGAN,malay,selangor,MNC,Y-135LC AC,36,rejected
+5567,14/09/2021,R.PANJANG,malay,selangor,SRC,Y-115Z(UE15),36,approved
+5568,14/09/2021,R.PANJANG,indian,selangor,MNC,S-VF3I185LEPRO,36,approved
+5569,14/09/2021,R.PANJANG,malay,selangor,SRC,Y-NVXV2,48,reverted
+5570,14/09/2021,K.SELANGOR,malay,selangor,SRC,Y-Y15ZR,48,approved
+5571,14/09/2021,PUCHONG,malay,kuala_lumpur,SRC,S-BONUS110SR,48,cancelled
+5573,14/09/2021,PANGLIMA,malay,selangor,HLTH,S-VF3I185N2,48,approved
+5574,14/09/2021,RAWANG,malay,selangor,SRC,H-RS150R TRICO,48,approved
+5575,14/09/2021,SENTUL,indian,selangor,SRC,S-VF3I185N2,48,rejected
+5576,14/09/2021,T.PULAI,malay,kuala_lumpur,MNC,S-VF3I185LEPRO,48,rejected
+5577,15/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,36,approved
+5578,14/09/2021,R.PANJANG,malay,selangor,SRC,Y-135LC AC,36,reverted
+5579,14/09/2021,T.PULAI,malay,selangor,MNC,S-VF3I185LEPRO,48,approved
+5580,14/09/2021,K.LAMA,malay,selangor,SRC,H-RS150RR,48,stockout
+5581,14/09/2021,CHERAS,malay,selangor,OTH,Y-Y15ZR,36,rejected
+5582,14/09/2021,K.LAMA,malay,selangor,SRC,Y-135LC AC,48,approved
+5584,14/09/2021,ONLINE SALES,malay,selangor,F&B,CBR150RAM/AM9,48,rejected
+5585,14/09/2021,SRI KBGAN,malay,selangor,SRC,Y-135LC AC,48,verification
+5586,14/09/2021,ONLINE SALES,malay,selangor,EDU,Y-NMAX,24,rejected
+5587,14/09/2021,R.PANJANG,indian,selangor,MNC,Y-135LC SE,36,approved
+5588,14/09/2021,K.LAMA,malay,kuala_lumpur,SRC,S-VF3I185LE,48,rejected
+5589,14/09/2021,R.PANJANG,malay,selangor,MNC,S-VF3I185LE,48,approved
+5590,14/09/2021,MERU,malay,selangor,MNC,H-RS150R TRICO,48,rejected
+5591,14/09/2021,K.LAMA,malay,selangor,SRC,S-VF3I185LE,48,rejected
+5592,15/09/2021,RAWANG,malay,selangor,SRC,S-VF3I185LE,48,rejected
+5593,14/09/2021,ONLINE SALES,malay,selangor,OTH,Y-135LC AC,48,approved
+5594,14/09/2021,SA,malay,negeri_sembilan,MNC,H-DASHRREPSOL,48,rejected
+5595,14/09/2021,SA,malay,selangor,MNC,Y-135LC AC,48,rejected
+5596,15/09/2021,RAWANG,malay,selangor,SRC,H-RS150R TRICO,48,verification
+5597,15/09/2021,RAWANG,indian,selangor,SRC,Y-115Z(UE15),48,rejected
+5598,15/09/2021,K.LAMA,malay,selangor,SRC,S-VF3I185LE,36,stockout
+5599,15/09/2021,K.SELANGOR,malay,selangor,SRC,Y-115Z(UE15),36,approved
+5600,15/09/2021,SS,indian,kuala_lumpur,OTH,H-WAVEALDR,36,cancelled
+5602,15/09/2021,ONLINE SALES,malay,selangor,OTH,Y-135LC AC,48,rejected
+5603,15/09/2021,K.LAMA,malay,selangor,SRC,Y-135LC AC,48,verification
+5604,15/09/2021,ONLINE SALES,malay,kuala_lumpur,SRC,S-VF3I185LEPRO,48,rejected
+5605,15/09/2021,ONLINE SALES,indian,selangor,SRC,S-VF3I185LE,48,rejected
+5606,15/09/2021,PUCHONG,indian,kuala_lumpur,TRD,Y-135LC AC,48,rejected
+5607,15/09/2021,RAWANG,indian,selangor,MNC,Y-Y15ZR,48,rejected
+5608,15/09/2021,S.UTAMA,malay,selangor,SRC,H-RS150R TRICO,48,approved
+5609,15/09/2021,K.SELANGOR,malay,selangor,MNC,Y-Y15ZR,36,approved
+5610,15/09/2021,SENTOSA,malay,selangor,SRC,Y-NVXABS,24,approved
+5611,15/09/2021,PUCHONG,indian,kuala_lumpur,TRD,Y-135LC AC,48,rejected
+5612,15/09/2021,SENTUL,malay,selangor,OTH,H-DASHR152,48,verification
+5613,15/09/2021,K.SELANGOR,malay,selangor,MNC,Y-Y15ZR,36,verification
+5614,15/09/2021,SENTOSA,indian,selangor,MNC,Y-135LC AC,24,rejected
+5615,15/09/2021,ONLINE SALES,chinese,selangor,SRC,S-VF3I185LEPRO,48,reverted
+5616,15/09/2021,K.SELANGOR,malay,selangor,SRC,Y-Y15ZR,36,verification
+5617,15/09/2021,SENTOSA,malay,selangor,MNC,Y-115Z(UE15),48,rejected
+5618,15/09/2021,K.LAMA,malay,selangor,SRC,Y-NVXABS,48,verification
+5619,16/09/2021,K.LAMA,malay,selangor,SRC,Y-NVXABS,36,submitted
+5620,15/09/2021,SS,indian,kuala_lumpur,SRC,Y-135LC AC,48,rejected
+5621,15/09/2021,SS,malay,selangor,MNC,H-VARIO150,36,verification
+5622,15/09/2021,SENTUL,malay,selangor,OTH,Y-NVXABS,36,verification
+5623,15/09/2021,ONLINE SALES,malay,selangor,SRC,Y-Y15ZR,36,rejected
+5624,15/09/2021,PUCHONG,indian,selangor,SRC,H-WAVEALDR,36,rejected
+5625,15/09/2021,ONLINE SALES,malay,kuala_lumpur,OTH,H-RS150R TRICO,48,cancelled
+5626,15/09/2021,ONLINE SALES,malay,selangor,SRC,Y-135LC AC,36,cancelled
+5627,15/09/2021,SS,malay,johor,MNC,Y-Y15ZR,48,rejected
+5628,15/09/2021,ONLINE SALES,malay,selangor,SRC,Y-Y15ZR,36,rejected
+5629,15/09/2021,S.UTAMA,malay,selangor,OTH,H-ADV150A,36,approved
+5630,15/09/2021,ONLINE SALES,malay,selangor,SRC,Y-Y15ZR,36,verification
+5631,15/09/2021,ONLINE SALES,malay,kuala_lumpur,SRC,Y-135LC AC,36,rejected
+5632,15/09/2021,SS,malay,selangor,SRC,Y-Y15ZR,36,approved
+5633,15/09/2021,SENTUL,malay,kuala_lumpur,TRD,Y-Y15ZR,48,verification
+5635,15/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,48,verification
+5636,15/09/2021,SENTUL,malay,selangor,SRC,Y-Y16ZR,48,approved
+5637,15/09/2021,SA,malay,selangor,MNC,S-VF3I185N2,48,rejected
+5638,15/09/2021,SS,malay,selangor,IT,Y-Y15ZR,48,verification
+5639,15/09/2021,SENTUL,malay,kuala_lumpur,ECOM,S-EBONUS110,36,cancelled
+5640,15/09/2021,SA,malay,selangor,MNC,H-WAVEAL,48,verification
+5641,16/09/2021,SENTOSA,indian,selangor,SRC,Y-115Z(UE15),36,verification
+5643,15/09/2021,K.LAMA,malay,selangor,SRC,H-WAVES125I,48,rejected
+5644,15/09/2021,SENTUL,malay,negeri_sembilan,F&B,Y-Y16ZR,48,verification
+5645,15/09/2021,SENTUL,malay,kuala_lumpur,BKFN,Y-Y16ZR,24,rejected
+5646,15/09/2021,ONLINE SALES,malay,selangor,SRC,S-VF3I185LE,48,rejected
+5647,15/09/2021,SENTUL,malay,kuala_lumpur,TRD,Y-135LC AC,24,verification
+5648,15/09/2021,RAWANG,indian,selangor,SRC,H-DASHR152,48,rejected
+5649,15/09/2021,CHERAS,malay,negeri_sembilan,OTH,Y-Y15ZR,36,verification
+5650,15/09/2021,R.PANJANG,malay,selangor,MNC,Y-115Z(UE15),36,verification
+5651,15/09/2021,R.PANJANG,malay,selangor,O&G,Y-135LC SE,36,reverted
+5652,15/09/2021,ONLINE SALES,malay,selangor,SRC,H-RS150R TRICO,48,rejected
+5653,15/09/2021,K.SELANGOR,malay,selangor,F&B,CBR150RAM/AM9,48,approved
+5654,15/09/2021,SS,malay,selangor,MNC,S-VF3I185LE,48,verification
+5655,15/09/2021,K.LAMA,indian,selangor,SRC,H-WAVER125IM,48,rejected
+5656,15/09/2021,PUCHONG,malay,selangor,F&B,H-WAVEAL,48,approved
+5657,15/09/2021,K.SELANGOR,malay,selangor,F&B,H-WAVER125IM,48,verification
+5659,16/09/2021,SENTOSA,indian,selangor,SRC,Y-135LC AC,36,submitted
+5660,15/09/2021,SS,malay,selangor,SRC,H-WAVER125IM,24,approved
+5661,15/09/2021,T.PULAI,malay,selangor,F&B,Y-NVXABS,48,reverted
+5662,15/09/2021,SENTUL,malay,kuala_lumpur,SRC,Y-135LC AC,48,verification
+5663,15/09/2021,T.PULAI,malay,selangor,MNC,Y-135LC AC,24,verification
+5664,15/09/2021,RAWANG,malay,selangor,SRC,S-VF3I185LE,48,rejected
+5665,15/09/2021,R.PANJANG,malay,selangor,SRC,Y-Y15ZR,48,verification
+5666,15/09/2021,SRI KBGAN,malay,selangor,SRC,S-VF3I185LEPRO,48,reverted
+5668,15/09/2021,SA,malay,selangor,SRC,Y-135LC AC,48,verification
+5669,15/09/2021,RAWANG,malay,selangor,SRC,Y-115Z(UE15),24,rejected
+5670,15/09/2021,PANGLIMA,malay,selangor,SRC,H-RS150R TRICO,48,verification
+5672,16/09/2021,K.LAMA,malay,kuala_lumpur,SRC,Y-Y15ZR,24,submitted
+5673,16/09/2021,KAPAR,malay,johor,MNC,H-WAVEALDR,36,submitted
+5674,16/09/2021,KAPAR,malay,selangor,MNC,Y-135LC AC,36,submitted
+5675,16/09/2021,K.SELANGOR,indian,selangor,MNC,S-VF3I185LEPRO,24,submitted
+5676,16/09/2021,K.LAMA,malay,selangor,SRC,S-VF3I185LEPRO,48,submitted
+5677,16/09/2021,CHERAS,malay,kuala_lumpur,OTH,Y-Y15ZR,36,submitted
+5678,16/09/2021,SENTOSA,malay,selangor,ENT,S-VF3I185LE,48,rejected
+5679,16/09/2021,K.SELANGOR,indian,selangor,SRC,Y-135LC AC,36,submitted
+5680,16/09/2021,KAPAR,malay,selangor,MNC,H-VARIO150,36,submitted
+5681,16/09/2021,KAPAR,indian,selangor,EDU,S-VF3I185LEPRO,48,submitted
+5682,16/09/2021,KAPAR,malay,selangor,MNC,Y-115Z(UE15),48,submitted
+5683,16/09/2021,KAPAR,malay,terengganu,MNC,H-RS150R TRICO,48,submitted
+5684,16/09/2021,KAPAR,indian,selangor,EDU,H-VARIO150,48,submitted
+5685,16/09/2021,KAPAR,malay,selangor,MNC,Y-135LC AC,48,rejected
+5686,16/09/2021,SENTUL,malay,kuala_lumpur,ECOM,S-EBONUS110,36,submitted
+5687,16/09/2021,SRI KBGAN,malay,selangor,SRC,Y-135LC AC,48,submitted
+5688,16/09/2021,KAPAR,malay,selangor,MNC,H-DASHR152,36,rejected
+5689,16/09/2021,SRI KBGAN,malay,selangor,SRC,Y-135LC AC,36,submitted
+5690,16/09/2021,MERU,malay,selangor,SRC,H-RS150R TRICO,48,submitted
+5691,16/09/2021,ONLINE SALES,malay,selangor,SRC,Y-115Z(UE15),48,submitted
+5692,16/09/2021,KAPAR,indian,selangor,EDU,Y-115Z(UE15),48,submitted
+5693,16/09/2021,SENTUL,malay,kuala_lumpur,SRC,S-VF3I185LEPRO,48,submitted
+5694,16/09/2021,KAPAR,indian,selangor,EDU,Y-Y15ZR,48,submitted
+5695,16/09/2021,SENTUL,malay,kelantan,SRC,Y-135LC AC,48,submitted
+5696,16/09/2021,RAWANG,indian,selangor,SRC,H-BEAT(ACH110),36,rejected
+5698,16/09/2021,SS,malay,sabah,MNC,S-VF3I185LE,48,submitted
+5699,16/09/2021,SENTUL,malay,selangor,SRC,Y-Y15ZR,48,submitted
+5700,16/09/2021,T.PULAI,malay,selangor,BKFN,H-RS150R TRICO,48,submitted
+5701,16/09/2021,RAWANG,malay,selangor,SRC,Y-Y15ZR,36,submitted
+5702,16/09/2021,SS,malay,selangor,OTH,Y-Y15ZR,48,submitted
+5703,16/09/2021,SENTUL,malay,selangor,ENGI,Y-135LC AC,48,submitted
+5704,16/09/2021,MERU,malay,selangor,MNC,Y-115Z(UE15),36,submitted
+5706,16/09/2021,SS,malay,selangor,IT,Y-Y15ZR,48,submitted
+5707,16/09/2021,SENTUL,malay,kuala_lumpur,ECOM,H-DASHR152,48,submitted
+5708,16/09/2021,CHERAS,malay,kuala_lumpur,OTH,Y-R15,36,submitted
+5709,16/09/2021,SENTUL,malay,selangor,SRC,Y-135LC AC,24,submitted
+5710,16/09/2021,R.PANJANG,indian,selangor,ENT,Y-135LC AC,48,submitted
+5711,16/09/2021,K.SELANGOR,malay,selangor,MNC,H-WAVER125IM,48,submitted
